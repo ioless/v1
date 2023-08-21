@@ -1,0 +1,107 @@
+,,
+CREATE AND EDIT,,1
+Show Context Actions,Alt+Enter,
+Basic Code Completion,Ctrl+Space,1
+Smart Code Completion,Ctrl+Shift+Space,1
+Type Name Completion,Ctrl+Alt+Space,1
+Complete Statement  ,Ctrl+Shift+Enter,1
+Parameter Information   ,Ctrl+P,
+Quick Definition,Ctrl+Shift+I,
+Quick documentation,Ctrl+Q,
+Generate...  ,Alt+Insert,
+Override | Implement Members   ,Ctrl+I,
+Surround With...,Ctrl+I,
+Unwrap | Remove...,Ctrl+Shift+Delete,
+Comment with Line | Block Comment,Ctrl+/ | Ctrl+Shift+/,1
+Extend | Shrink Selection,Ctrl+W | Ctrl+Shift+W,
+Context Info,Alt+Q,
+Optimize Imports,Ctrl+Alt+O,
+Auto-Indent Lines,Ctrl+Alt+I,
+,,
+,,
+Cut | Copy | Paste,Ctrl+X | Ctrl+C | Ctrl+V,1
+Cut | Copy | Paste,Shift + Del | Ctrl + Ins | Shift + Ins,1
+Copy Document Path,Ctrl+Shift+C,
+Paste from Clipboard History,Ctrl+Shift+V,
+Duplicate Current Line or Selection,Ctrl+D,1
+,,
+,,
+Move Line Up | Down,Alt+Shift+Up | Alt+Shift+Down,1
+Move Statement Up | Down,Ctrl+Shift+Up | Ctrl+Shift+Down,
+,,
+Move Element Right | Left,Ctrl+Alt+Shift+Right | Ctrl+Alt+Shift+Left,
+Delete Line at Caret,Ctrl+E,1
+Join | Split Line,Ctrl+Shift+J | Ctrl+Enter,
+New Line Above | Below,Ctrl+Alt+Enter | Shift+Enter,
+Toggle Case,Ctrl+Shift+U,
+Expand | Collapse Code Block,Ctrl+NumPad + | Ctrl+NumPad -,
+Save All,Ctrl+S,
+External Documentation,Shift+F1,
+,,
+,,
+MASTER YOUR IDE,,
+Find Action...,Ctrl+Shift+A,
+Open File or Folder,Alt+Shift+O,
+Project | Explorer Tool Window,Alt+1,1
+Add New File,Alt+Insert,
+Reload All from Disk,Ctrl+Alt+Y,
+Toggle Full Screen mode,F11,
+Settings...,Ctrl+Alt+S,
+Jump to Source,F4,
+Jump to Last Tool Window,F12,
+Hide Active | All Tool Windows,Shift+Esc | Ctrl+Shift+F12,
+Go to Next | Previous Editor Tab,Ctrl+PgDown | Ctrl+PgUp,1
+Go to Editor (from a Tool Window),Esc,1
+Close Active Editor Tab,Ctrl+F4,
+,,
+,,
+FIND EVERYTHING,,1
+Search Everywhere,Double Shift,1
+Find | Replace in File,Ctrl+F | Ctrl+R,1
+Find | Replace in Project,Ctrl+Shift+F,
+Go to Class,Ctrl+N,
+Go to File Member,Ctrl+F12,
+Go to File,Ctrl+O,
+Go to Symbol,Ctrl+Alt+Shift+O,
+Go to Text,Ctrl+Alt+Shift+E,
+,,
+NAVIGATE FROM SYMBOLS,,
+Go to Declaration or Usages,Ctrl+B,1
+Go to Type Declaration,Ctrl+Shift+B,
+Go to Base | Derived Symbols,Ctrl+U | Ctrl+Alt+B,
+Find Usages,Alt+F7,
+Highlight Usages in File,Ctrl+Shift+F7,
+Show Usages,Ctrl+Alt+7,
+,,
+ANALYZE AND EXPLORE,,
+Problems Tool Window,Alt+6,
+Show Error Description,Ctrl+F1,
+Next | Previous Highlighted Error,F2 | Shift+F2,
+Run Inspection by Name...,Ctrl+Alt+Shift+I,
+Type Hierarchy,Ctrl+H,
+Method Hierarchy,Ctrl+Shift+H,
+Call Hierarchy,Ctrl+Alt+H,
+,,
+VERSION CONTROL,,
+VCS Operations Popup...,Ctrl+`,
+Update Project,Ctrl+T,
+Recent Changes,Alt+Shift+C,
+Rollback...,Ctrl+Alt+Z,
+Next | Previous Change,Ctrl+Alt+Shift+Down | Ctrl+Alt+Shift+Up,
+Commit | Version Control Tool Window,Alt+0,
+,,
+NAVIGATE CONTEXT,,
+Select In...,Alt+F1,
+Switcher,Ctrl+Tab,
+Last Edit Location,Ctrl+Shift+Back,1
+Navigate Back | Forward,Alt+Left | Alt+Right,1
+Next | Previous method,Alt+Down | Alt+Up,
+Go to Line:Column...,Ctrl+G,1
+Go to Code Block End | Start,Ctrl+] | Ctrl+[,
+Next | Previous Occurrence,F3 | Shift+F3,
+Next | Previous Word at Caret,Ctrl+F3 | Ctrl+Shift+F3,
+Toggle Bookmark with Mnemonic,Ctrl+F11,
+Go to Numbered Bookmark,Ctrl+[0-9],
+Show Bookmarks...,Shift+F11,
+Find Tool Window,Alt+3,
+Bookmarks Tool Window,Alt+2,
